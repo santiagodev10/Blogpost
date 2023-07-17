@@ -39,3 +39,7 @@ body {
 #inside {
     padding: 1em;
 }
+
+#footer {
+    font-weight: bold;
+}

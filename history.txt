@@ -2,16 +2,6 @@ My name is Santiago Perozo, i have 25 years old
 and this is my first experience with Git, 
 so i’m getting into this world
 
-<<<<<<< HEAD
-
-
-
-
-Master 1
-
-Master 2
-=======
 Master 1
 
 Experimento 1
->>>>>>> 7b96cf8 (Experimento 1)

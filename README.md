@@ -10,3 +10,4 @@ Entre las cosas que aprendí fueron las siguientes:
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Acerca de git clean

@@ -11,3 +11,5 @@ Entre las cosas que aprendí fueron las siguientes:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Acerca de git clean
+* Acerca de git stash
+* Acerca de git cherry pick
